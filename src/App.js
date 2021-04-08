@@ -16,7 +16,7 @@ import './App.css';
 
 const API_TOKEN = "c1mlkh237fkpnsp5t5mg";
 const STOCK_SYMBOLS = ["TSLA", "MSFT", "DIS", "SBUX", "SNAP", "NDAQ", "AAPL"]
-const INTERVAL_OPTIONS = [30, 60, 90, 120, 360]
+const INTERVAL_OPTIONS = [30, 60, 90, 120, 360, 480]
 const API_URL = "https://finnhub.io/api/v1/stock/candle"
 const RESOLUTION = "D"
 const COLORS = ["blue", "green", "red", "coral", "purple"]
