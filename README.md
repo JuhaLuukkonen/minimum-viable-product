@@ -8,11 +8,11 @@ In the project directory, you can run:
 
 ### `yarn install`
 
-then add rechart library
+Then install rechart library in the project directory:
 
 ### `yarn add recharts moment query-string`
 
-then start program
+And start the program:
 
 ### `yarn start`
 
