@@ -1,3 +1,7 @@
+# Minimum Viable Product - Juha Luukkonen
+
+web source: https://medium.com/swlh/beautiful-visualizations-with-react-and-recharts-76c7c51f926c
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
